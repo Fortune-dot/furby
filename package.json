@@ -9,7 +9,7 @@
   "dependencies": {
     "menubar": "^5.2.3",
     "noble": "https://github.com/jeffrafter/noble",
-    "winston": "^2.3.0",
+    "winston": "^2.4.5",
     "xpc-connection": "^0.1.4"
   },
   "author": "Jeija + Jeff + Nathaniel + Tim",
